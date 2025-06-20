@@ -37,10 +37,10 @@ This project explores the relationship between **trader performance** and the **
 
 # Conclusion
 
-> Market sentiment strongly influences trader behavior.  
-> Greedy markets lead to high profits.  
-> Fearful markets trigger high volume and trade count.  
-> Neutral markets result in lower performance.
+  Market sentiment strongly influences trader behavior.
+Greedy markets lead to high profits.  
+ Fearful markets trigger high volume and trade count.  
+ Neutral markets result in lower performance.
 
 These insights can help traders and platforms build smarter, sentiment-aware strategies.
 
